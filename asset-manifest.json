@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/subrabala/budget-tracker.git/static/css/main.c2cab247.css",
+    "main.js": "/subrabala/budget-tracker.git/static/js/main.fd49bac8.js",
+    "static/js/787.3523ed75.chunk.js": "/subrabala/budget-tracker.git/static/js/787.3523ed75.chunk.js",
+    "index.html": "/subrabala/budget-tracker.git/index.html",
+    "main.c2cab247.css.map": "/subrabala/budget-tracker.git/static/css/main.c2cab247.css.map",
+    "main.fd49bac8.js.map": "/subrabala/budget-tracker.git/static/js/main.fd49bac8.js.map",
+    "787.3523ed75.chunk.js.map": "/subrabala/budget-tracker.git/static/js/787.3523ed75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.fd49bac8.js"
+  ]
+}
